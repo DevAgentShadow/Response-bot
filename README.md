@@ -15,5 +15,3 @@ Then you have to type `node index.js` now you're bot is completed!
 #### Discord Server 
 
 [🛢️Server Invite](https://discord.gg/vVEAeV8CUM)
-"# Response-bot" 
-"# Response-bot" 
