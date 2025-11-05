@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "clientId": "YOUR_CLIENT_ID",
+  "prefix": "!",
+  "storage": "mongodb://localhost",
+  "_comment_storage": "Use a MongoDB connection string (e.g. mongodb://localhost:27017/dbname) or a local folder path.",
+  "matchMode": "exact",
+  "logLevel": "info"
+}
